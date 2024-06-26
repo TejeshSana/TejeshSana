@@ -63,7 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TejeshSana/TejeshSana/output/snake.svg" alt="Snake animation" />
 
 ###
 
