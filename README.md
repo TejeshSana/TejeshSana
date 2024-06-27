@@ -61,7 +61,7 @@
 
 ###
 
-<h2 align="left">Connect with me on</h2>
+<h2 align="left">How to reach me</h2>
 
 ###
 
